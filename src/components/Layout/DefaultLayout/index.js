@@ -1,5 +1,5 @@
-import Header from './Header';
-import Slidebar from './Slidebar';
+import Header from '../component/Header';
+import Slidebar from '../component/Slidebar';
 
 function DefaultLayout({ children }) {
     return (
