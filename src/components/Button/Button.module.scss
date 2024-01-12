@@ -1,0 +1,13 @@
+.wrapper {
+    font-size: 1.6rem;
+    font-weight: 700;
+    min-width: 100px;
+    padding: 9px 16px;
+    color: red;
+    cursor: pointer;
+    border-radius: 5px;
+    &:hover {
+        background-color: red;
+        color: white;
+    }
+}
