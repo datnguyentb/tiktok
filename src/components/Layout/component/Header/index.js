@@ -61,9 +61,7 @@ function Header() {
 
                 <div className={cx('actions')}>
                     <Button text>Upload</Button>
-                    <Button primary rounded>
-                        Log in
-                    </Button>
+                    <Button primary>Log in</Button>
                 </div>
             </div>
         </header>
