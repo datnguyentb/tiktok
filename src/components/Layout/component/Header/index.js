@@ -60,7 +60,10 @@ function Header() {
                 </div>
 
                 <div className={cx('actions')}>
-                    <Button>Log in</Button>
+                    <Button text>Upload</Button>
+                    <Button primary rounded>
+                        Log in
+                    </Button>
                 </div>
             </div>
         </header>
